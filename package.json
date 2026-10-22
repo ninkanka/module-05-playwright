@@ -1,0 +1,16 @@
+{
+  "name": "Tests (Contact, Authentication)",
+  "version": "1.0.0",
+  "description": "Tests for module [05] based on Gherkin scenarios",
+  "main": "index.js",
+ "scripts": {
+    "test": "playwright test"
+},
+  "author": "Nina Stasenko",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
